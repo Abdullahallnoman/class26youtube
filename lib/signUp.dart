@@ -19,7 +19,7 @@ class _SignUpPageState extends State<SignUpPage> {
           onPressed: () {
             Navigator.pop(context);
           },
-          child: Text('Login'),
+          child: Text('Login here'),
         ),
       ),
     );
